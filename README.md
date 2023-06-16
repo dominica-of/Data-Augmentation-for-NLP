@@ -10,8 +10,3 @@ This Python script performs a few different tasks related to text processing or 
 
 4. **Random Swap (random_swap function)**: This function takes a sentence (list of words) and a number 'n' as inputs. It swaps the positions of two randomly chosen words in the sentence, 'n' times. It then returns the sentence (list of words) with swapped words. 
 
-Note: This code does not include the import statements for 'random' and 'wordnet' from NLTK, which are needed for the code to run. You'd typically see these at the top of the file:
-```python
-import random
-from nltk.corpus import wordnet
-```
